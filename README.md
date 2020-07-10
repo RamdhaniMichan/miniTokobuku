@@ -1,2 +1,1 @@
-# miniTokobuku
- dibuat menggunakan Laravel
+App Toko Buku Sederhana Menggunkakan Laravel 7
