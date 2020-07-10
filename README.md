@@ -1,0 +1,2 @@
+# miniTokobuku
+ dibuat menggunakan Laravel
