@@ -40,7 +40,8 @@ class BukuController extends Controller
     	$buku->harga = $request->harga;
         $buku->tgl_terbit = $request->tgl_terbit;
     	$buku->category_id = $request->category_id;
-    	$buku->save();
+		$buku->save();
+		
     	return redirect('/buku')->with('success','Data Berhasil Disimpan');
     }
 
